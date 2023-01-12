@@ -1,0 +1,15 @@
+C:\Users\Mihiri\Documents\C#\CPSC1012Casino\bin\Debug\net6.0\CPSC1012Casino.exe
+C:\Users\Mihiri\Documents\C#\CPSC1012Casino\bin\Debug\net6.0\CPSC1012Casino.deps.json
+C:\Users\Mihiri\Documents\C#\CPSC1012Casino\bin\Debug\net6.0\CPSC1012Casino.runtimeconfig.json
+C:\Users\Mihiri\Documents\C#\CPSC1012Casino\bin\Debug\net6.0\CPSC1012Casino.dll
+C:\Users\Mihiri\Documents\C#\CPSC1012Casino\bin\Debug\net6.0\CPSC1012Casino.pdb
+C:\Users\Mihiri\Documents\C#\CPSC1012Casino\obj\Debug\net6.0\CPSC1012Casino.csproj.AssemblyReference.cache
+C:\Users\Mihiri\Documents\C#\CPSC1012Casino\obj\Debug\net6.0\CPSC1012Casino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mihiri\Documents\C#\CPSC1012Casino\obj\Debug\net6.0\CPSC1012Casino.AssemblyInfoInputs.cache
+C:\Users\Mihiri\Documents\C#\CPSC1012Casino\obj\Debug\net6.0\CPSC1012Casino.AssemblyInfo.cs
+C:\Users\Mihiri\Documents\C#\CPSC1012Casino\obj\Debug\net6.0\CPSC1012Casino.csproj.CoreCompileInputs.cache
+C:\Users\Mihiri\Documents\C#\CPSC1012Casino\obj\Debug\net6.0\CPSC1012Casino.dll
+C:\Users\Mihiri\Documents\C#\CPSC1012Casino\obj\Debug\net6.0\refint\CPSC1012Casino.dll
+C:\Users\Mihiri\Documents\C#\CPSC1012Casino\obj\Debug\net6.0\CPSC1012Casino.pdb
+C:\Users\Mihiri\Documents\C#\CPSC1012Casino\obj\Debug\net6.0\CPSC1012Casino.genruntimeconfig.cache
+C:\Users\Mihiri\Documents\C#\CPSC1012Casino\obj\Debug\net6.0\ref\CPSC1012Casino.dll
